@@ -2,7 +2,7 @@
 
 An intelligent conversational AI agent built with Microsoft Copilot Studio to streamline employee expense submission and policy inquiries.
 
-[View Demo Video](your-loom-link-here)
+[View Demo Video](https://www.loom.com/share/636ecfbdd7fc4a94a9bd278cb3be7436?sid=3e917a85-2a6e-47e2-902c-2ab57b2821d6)
 
 ---
 
@@ -187,22 +187,27 @@ Real-world expense systems need balance between control (ensuring policy complia
 ## Screenshots
 
 ### Agent Overview
-![Agent Overview](screenshots/01-agent-overview.jpg)
+![Agent Overview](screenshots/1.%20agent-overview.jpg)
 
 Copilot Studio agent configuration showing generative AI orchestration enabled.
 
-### Custom Topic Flow
-![Topic Flow](screenshots/02-topic-flow.png)
+### Agent Configuration Detail
+![Agent Configuration](screenshots/2.%20agent-overview.jpg)
 
-Submit Expense topic with multi-turn conversation design and variable collection.
+Additional agent setup and configuration details.
 
 ### Test Conversation
-![Test Conversation](screenshots/03-test-conversation.png)
+![Test Conversation](screenshots/3.%20test%20conversation.jpg)
 
 Live conversation demonstrating the structured expense submission flow.
 
+### Custom Topic Flow
+![Topic Flow](screenshots/4.%20topic-flow.jpg)
+
+Submit Expense topic with multi-turn conversation design and variable collection.
+
 ### Generative AI Response
-![Generative Response](screenshots/04-generative-response.png)
+![Generative Response](screenshots/5.%20generative-response.jpg)
 
 Agent providing comprehensive policy guidance using GPT-4o.
 
